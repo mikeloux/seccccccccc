@@ -1,0 +1,21 @@
+HTML DOOM
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DOOM PICTURES</title>
+</head>
+<body><h1>COM O COMBO+, VOCÊ PODE APROVEITAR O ALURA+ E O ALURA LINGUA POR UM PREÇO ÚNICO.</h1>
+    <p><center></center>
+    </p>
+    <img src="https://lh3.googleusercontent.com/drive-storage/AJQWtBNVegZMM5NoMPspWDYfSrrqSsMFbz9_KsleeIfG_wzughDZYlkoDB_wXRLEIO2b4LgZJlEqNR4O9RtcGo77MoIVNRhZ4Fah6hI6Zf8bUrFkr1Y=w1905-h971">
+</body>
+</html>
+
+CSS DOOM
+ :root{--branco-principal:#ffffff;--cinza-principal:#C0C0C0
+}
+p{
+    text-align: center;
+}
